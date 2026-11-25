@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240" role="img" aria-labelledby="title desc">
+  <title id="title">md_reader 工作方式示意</title>
+  <desc id="desc">左侧为 Markdown 编辑器，右侧为实时预览，文件保存在本地目录。</desc>
+  <rect width="760" height="240" rx="16" fill="#f6f8fa"/>
+  <rect x="28" y="28" width="300" height="184" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <rect x="432" y="28" width="300" height="184" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="44" y="58" font-family="Consolas, monospace" font-size="14" fill="#57606a">Markdown</text>
+  <text x="44" y="88" font-family="Consolas, monospace" font-size="14" fill="#24292f"># 我的笔记</text>
+  <text x="44" y="112" font-family="Consolas, monospace" font-size="14" fill="#24292f">## 重点</text>
+  <text x="44" y="136" font-family="Consolas, monospace" font-size="14" fill="#24292f">- 第一件事</text>
+  <text x="44" y="160" font-family="Consolas, monospace" font-size="14" fill="#24292f">**加粗的内容**</text>
+  <text x="448" y="58" font-family="Segoe UI, sans-serif" font-size="14" fill="#57606a">预览</text>
+  <text x="448" y="94" font-family="Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#24292f">我的笔记</text>
+  <text x="448" y="128" font-family="Segoe UI, sans-serif" font-size="18" font-weight="600" fill="#24292f">重点</text>
+  <circle cx="454" cy="150" r="3" fill="#24292f"/>
+  <text x="466" y="155" font-family="Segoe UI, sans-serif" font-size="14" fill="#24292f">第一件事</text>
+  <text x="448" y="184" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#24292f">加粗的内容</text>
+  <path d="M348 120 H412" stroke="#8b949e" stroke-width="2" stroke-dasharray="6 5"/>
+  <path d="M404 113 L414 120 L404 127" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="314" y="206" width="132" height="26" rx="13" fill="#eaeef2"/>
+  <text x="380" y="223" text-anchor="middle" font-family="Microsoft YaHei, sans-serif" font-size="12" fill="#57606a">本地文件 · 实时预览</text>
+</svg>
